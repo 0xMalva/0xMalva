@@ -1,3 +1,3 @@
 Security Researcher / Ethical Hacker / Hobby Programmer
 
-[Medium] (https://medium.com/@malvacrypto)
+[Medium](https://medium.com/@malvacrypto)
